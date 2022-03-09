@@ -1,11 +1,11 @@
 
-document.getElementById("count-el").innerText = 100
+document.getElementById("count-el").innerText = 1000
 let count = 10
 console.log(count)
 
 
 
-let myAge = 32
+let myAge = 350
 console.log(myAge)
 
 let humanDogRatio = 10
