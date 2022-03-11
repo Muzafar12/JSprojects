@@ -5,7 +5,7 @@ console.log(count)
 
 
 
-let myAge = 350
+let myAge = 550
 console.log(myAge)
 
 let humanDogRatio = 10
