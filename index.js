@@ -5,10 +5,10 @@ console.log(count)
 
 
 
-let myAge = 550
+let myAge = 55
 console.log(myAge)
 
-let humanDogRatio = 100
+let humanDogRatio = 10
 
 let myDogAge = myAge * humanDogRatio
 console.log(myDogAge)
