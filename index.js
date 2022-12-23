@@ -1,6 +1,6 @@
 
-document.getElementById("count-el").innerText = 1000
-let count = 10
+document.getElementById("count-el").innerText = 10000
+let count = 100
 console.log(count)
 
 
@@ -8,7 +8,7 @@ console.log(count)
 let myAge = 550
 console.log(myAge)
 
-let humanDogRatio = 10
+let humanDogRatio = 100
 
 let myDogAge = myAge * humanDogRatio
 console.log(myDogAge)
